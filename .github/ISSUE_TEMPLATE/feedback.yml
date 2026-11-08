@@ -1,0 +1,21 @@
+name: Feedback
+description: Something went wrong, felt confusing, or could be better.
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing Cadrelia! This is a public page: please don't paste a wallet address you'd rather keep private.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: What you did, what you saw, and what you expected instead. Screenshots welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: Filled in by Send Feedback… in the app (versions, counts, settings, recent errors; no wallet address). Otherwise, use Copy Diagnostics at the bottom of Settings.
+      render: text

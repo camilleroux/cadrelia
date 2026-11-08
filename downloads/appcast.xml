@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cadrelia</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 08 Nov 2026 16:02:16 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Cadrelia 0.1.0: first test version
+
+Thanks for trying Cadrelia! This is an early test version: things may change or break.
+
+- Add Ethereum, Tezos or Bitcoin wallets and see your collection in the Library.
+- Hang your artworks on the desktop, live or as still images, with Fit, Fill or Mat framing.
+- Screen saver, labels, and exhibitions, frames and label styles for collectors.
+
+Something wrong or confusing? **Send Feedback…** in the menu bar.
+]]></description>
+            <enclosure url="https://camilleroux.github.io/cadrelia/downloads/Cadrelia-0.1.0.zip" length="5050244" type="application/octet-stream" sparkle:edSignature="/iA9hK0C1b/KxeuzfrrjxHPt7OHyUdMVxT5eoiHMbsATkbSglIRrMRM1vJQetgNTV8Re6qhzHI/geSOoAFqjDA=="/>
+        </item>
+    </channel>
+</rss>

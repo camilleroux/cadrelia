@@ -1,0 +1,11 @@
+name: Idea
+description: Something you'd like Cadrelia to do.
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you'd like, and what it would let you do.
+    validations:
+      required: true
