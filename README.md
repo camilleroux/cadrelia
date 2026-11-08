@@ -3,8 +3,9 @@
 > **This is an early test version, shared to collect feedback.** Things may change, break or disappear
 > between versions. Please don't rely on it yet, and tell me what you find.
 
-Cadrelia hangs the art in your crypto wallets on your Mac's desktop. Generative pieces run live, the way their
-artist intended, and switch to a still image when the battery needs it. It reads your wallets without
+Cadrelia hangs the art in your crypto wallets on your Mac's desktop: images, videos, GIFs and generative
+pieces. The ones that move can play live, the way their artist intended, and switch to a still image when the
+battery needs it. It reads your wallets without
 connecting to them: no signature and no private key.
 
 ![The Library window over a desktop whose wallpaper is Folradura #2](images/library.jpg)
