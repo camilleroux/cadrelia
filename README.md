@@ -10,8 +10,8 @@ connecting to them: no signature and no private key.
 ![Intricada by Camille Roux, hung on the desktop in a Gallery White frame](images/desktop.jpg)
 *Intricada #266, hung on the desktop in a Gallery White frame.*
 
-![The Library: your collection, exhibitions and wallets, with the details of the selected artwork](images/library.jpg)
-*The Library: your collection, exhibitions and wallets.*
+![The Library window over a desktop whose wallpaper is Folradura #2](images/library.jpg)
+*The Library over the desktop: your collection, exhibitions and wallets. The wallpaper is Folradura #2.*
 
 It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bitcoin Ordinals. It needs
 **macOS 14 Sonoma or later**.
