@@ -15,7 +15,7 @@ It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bi
 
 ## Download
 
-**[Download Cadrelia (latest test version)](https://camilleroux.github.io/cadrelia/Cadrelia.zip)**
+**[Download Cadrelia (latest test version)](https://cadrelia.camilleroux.com/Cadrelia.zip)**
 
 1. Open the zip and move **Cadrelia** to your Applications folder.
 2. Open it. Since this test version isn't signed by Apple yet, macOS blocks it the first time.
