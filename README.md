@@ -11,7 +11,7 @@ connecting to them: no signature and no private key.
 *Intricada #266, hung on the desktop in a Gallery White frame.*
 
 ![The Library window over a desktop whose wallpaper is Folradura #2](images/library.jpg)
-*The Library over the desktop: your collection, exhibitions and wallets. The wallpaper is Folradura #2.*
+*The Library over the desktop: your collection, exhibitions and wallets. The wallpaper is Folradura #2, shown whole (Fit).*
 
 It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bitcoin Ordinals. It needs
 **macOS 14 Sonoma or later**.
