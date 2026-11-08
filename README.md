@@ -7,11 +7,8 @@ Cadrelia hangs the art in your crypto wallets on your Mac's desktop. Generative 
 artist intended, and switch to a still image when the battery needs it. It reads your wallets without
 connecting to them: no signature and no private key.
 
-![Intricada by Camille Roux, hung on the desktop in a Gallery White frame](images/desktop.jpg)
-*Intricada #266, hung on the desktop in a Gallery White frame.*
-
 ![The Library window over a desktop whose wallpaper is Folradura #2](images/library.jpg)
-*The Library over the desktop: your collection, exhibitions and wallets. The wallpaper is Folradura #2, shown whole (Fit).*
+*The Library over the desktop, with Folradura #2 selected and shown whole (Fit) as the wallpaper.*
 
 It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bitcoin Ordinals. It needs
 **macOS 14 Sonoma or later**.
