@@ -16,7 +16,7 @@ It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bi
 
 ## Download
 
-**[Download Cadrelia (latest test version)](https://cadrelia.camilleroux.com/Cadrelia.zip)**
+**[Download Cadrelia (latest test version)](https://github.com/camilleroux/cadrelia/releases/latest/download/Cadrelia.zip)**
 
 1. Open the zip and move **Cadrelia** to your Applications folder.
 2. Open it. Since this test version isn't signed by Apple yet, macOS blocks it the first time.
@@ -24,7 +24,7 @@ It works with Ethereum (with Base, Optimism, Arbitrum and Polygon), Tezos and Bi
    **Open Anyway**. You only do this once.
 4. Add a wallet address or name (`name.eth`, `name.tez`, `0x…`, `tz…`, `bc1…`), or try the example collection.
 
-Updates arrive in the app itself: *Check for Updates…* in the menu bar.
+Updates arrive in the app itself: *Check for Updates…* in the menu bar. Every version, with what changed: [Releases](https://github.com/camilleroux/cadrelia/releases).
 
 ## Feedback
 
